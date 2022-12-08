@@ -9,10 +9,15 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 ## Linear Regression to Predict MPG
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+
 As you can see from the image below, vehicle length (p = 2.60e-12) and vehicle ground clearance (p - 5.21e-08) are non-random variances to mpg found in the dataset.
+
 - Is the slope of the linear model considered to be zero? Why or why not?
+
 The slope of the line never reaches zero. There are several non-zero coefficient values indicated by the data below. 
+
 -Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
 Yes, fairly well. The r-squared value indicated that about 71% of MPG predictions fit this model.
  
 ![Deliverable 1 ](https://user-images.githubusercontent.com/111031608/205808297-8846f116-0949-4e68-9cc7-180495fd7d0d.png)
@@ -55,8 +60,11 @@ Null Hypothesis: H0 = MechaCars break down less than the competition.
 Alternative: Ha= MechaCars do not break down less than the competition. 
 
 - What statistical test would you use to test the hypothesis? And why?
+
 Regression because it tests the relationships of multiple variables. 
+
 - What data is needed to run the statistical test?
+
 Average number of shop visits, average number of spare parts purchased, average number of AAA calls by model, cart testing data.
 
 
