@@ -16,7 +16,7 @@ As you can see from the image below, vehicle length (p = 2.60e-12) and vehicle g
 
 The slope of the line never reaches zero. There are several non-zero coefficient values indicated by the data below. 
 
--Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 Yes, fairly well. The r-squared value indicated that about 71% of MPG predictions fit this model.
  
