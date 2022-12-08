@@ -49,6 +49,7 @@ In Lot 3, the p-value is less than the 0.5, therefore, we reject the null hypoth
 - What metric or metrics are you going to test?
 In a study against the competition, reliability is a good metric to test. 
 - What is the null hypothesis or alternative hypothesis?
+
 Null Hypothesis: H0 = MechaCars break down less than the competition. 
 
 Alternative: Ha= MechaCars do not break down less than the competition. 
