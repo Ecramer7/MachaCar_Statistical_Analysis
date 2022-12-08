@@ -38,15 +38,19 @@ Alternative: Ha = PSI for each manufacturing lot is not statistically different 
 
 Summary T-tests
 In the Entire Lot Below, the p-value is greater than 0.05, therefore, we fail to reject the null hypothesis. 
+
 ![Entire Lot](https://user-images.githubusercontent.com/111031608/205808699-81602afa-ac45-4d15-9bb5-312a524e4d7c.png)
 
 In Lot 1, the p-value is greater than 0.05, therefore, we fail to reject the null hypothesis.
+
 ![Lot 1](https://user-images.githubusercontent.com/111031608/205808889-c5ea5779-1a26-437e-8437-50e5df5fe346.png)
 
 In Lot 2, the p-value is greater than 0.05, therefore, we fail to reject the null hypothesis.
+
 ![Lot 2 ](https://user-images.githubusercontent.com/111031608/205808799-a9a62d21-68c8-4f02-b7eb-12b75cd2b25c.png)
 
 In Lot 3, the p-value is less than the 0.5, therefore, we reject the null hypothesis. 
+
 ![Lot 3](https://user-images.githubusercontent.com/111031608/205808842-3ad66688-51bc-45d2-942c-5a090356d6a1.png)
 
 ## Study Design: MechaCar vs Competition 
